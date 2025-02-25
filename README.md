@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Dilshan Manohara</h1>
 <h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=dilshcoder&label=Profile%20views&color=0e75b6&style=flat" alt="dilshcoder" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=dilshanmanohara&label=Profile%20views&color=0e75b6&style=flat" alt="dilshanmanohara" /> </p>
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
@@ -31,14 +31,14 @@
 <tr border="none">
 <td width="50%" align="center">
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dilshcoder&show_icons=true&locale=en&layout=compact" alt="dilshcoder" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dilshanmanohara&show_icons=true&locale=en&layout=compact" alt="dilshanmanohara" />
   <br></br>
   
 </td>
 <td width="50%" align="center">
 
   
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=dilshcoder&show_icons=true&locale=en" alt="dilshcoder" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=dilshanmanohara&show_icons=true&locale=en" alt="dilshanmanohara" />
 
   </td>
 </tr>
